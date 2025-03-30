@@ -5,7 +5,7 @@ I am a Full-Stack developer working on projects using React, JavaScript, Flutter
 
 With experience in Full-Stack development, my expertise lies in front-end development. I have had the opportunity to work various languages and frameworks such as <strong>HTML, CSS, JavaScript, React, NodeJS, Kotlin, PHP, Laravel, Flutter, Dart, and Storybook.</strong> I am proficient in utilizing DBMS services such as <strong>MySql, SQLite, MongoDB, and MSSQL.</strong>
 
-It would be a privilege to have the chance to work and collaborate with you! Feel free to reach out!
+While most of my work has been done through Azure DevOps, here you will find a few projects I have worked on. It would be a privilege to have the chance to work and collaborate with you! Feel free to reach out!
 
 <!---
 DeckardJosh/DeckardJosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
